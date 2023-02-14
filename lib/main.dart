@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:emprestimos/pages/home_page.dart';
+import 'package:emprestimos/ui/home_page.dart';
 
 void main() {
   runApp(const MyApp());
